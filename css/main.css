@@ -16,3 +16,8 @@ html {
 *, *:before, *:after {
   box-sizing: inherit;
 }
+
+
+.bio {
+  text-align: center;
+}
