@@ -17,13 +17,50 @@ html {
   box-sizing: inherit;
 }
 
+.name {
+  padding-top: 5em;
+  color: #58595b;
+}
+
 
 .bio {
   text-align: center;
 }
 
 
-.links{
+li{
+  display:inline;
+  margin: auto;
+  padding: 10px;
   
-display:inline
+}
+
+.links {
+  text-align: center;
+}
+
+a {
+  color: #27aae1;
+}
+
+a:hover {
+  color: gray;
+}
+
+@media only screen and (min-width: 20em) {
+  
+   body {
+    max-width: 35em;
+    margin: 0 auto;
+  }
+    
+}
+
+@media only screen and (min-width: 44em) {
+  
+          
+}
+
+@media only screen and (min-width: 60em) {
+  
 }
