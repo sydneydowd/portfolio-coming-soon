@@ -17,8 +17,17 @@ html {
   box-sizing: inherit;
 }
 
+img {
+  width: 40%;
+  padding-top: 4em;
+}
+
+.profile {
+  margin: 0 auto;
+}
+
 .name {
-  padding-top: 5em;
+  padding-top: 4em;
   color: #58595b;
 }
 
@@ -32,7 +41,6 @@ li{
   display:inline;
   margin: auto;
   padding: 10px;
-  
 }
 
 .links {
@@ -44,14 +52,16 @@ a {
 }
 
 a:hover {
-  color: gray;
+  color:  #58595b;
 }
 
 @media only screen and (min-width: 20em) {
   
    body {
-    max-width: 35em;
+    max-width: 40em;
     margin: 0 auto;
+    padding-left: 2em;
+    padding-right: 2em;
   }
     
 }
@@ -62,5 +72,6 @@ a:hover {
 }
 
 @media only screen and (min-width: 60em) {
+  
   
 }
