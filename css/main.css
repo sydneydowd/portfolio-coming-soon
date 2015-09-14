@@ -18,11 +18,9 @@ html {
 }
 
 img {
-  width: 40%;
+  width: 50%;
   padding-top: 4em;
-}
-
-.profile {
+  display: block;
   margin: 0 auto;
 }
 
