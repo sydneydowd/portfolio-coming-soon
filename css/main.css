@@ -18,7 +18,7 @@ html {
 }
 
 img {
-  width: 50%;
+  width: 40%;
   padding-top: 4em;
   display: block;
   margin: 0 auto;
@@ -29,11 +29,13 @@ img {
   color: #58595b;
 }
 
+p {
+  padding-top: 2em;
+}
 
 .bio {
   text-align: center;
 }
-
 
 li{
   display:inline;
