@@ -17,9 +17,13 @@ html {
   box-sizing: inherit;
 }
 
+h1 {
+  font-family: 'Georgia' serif;
+}
+
 img {
   width:100%;
-  padding-top: 4em;
+  padding-top: 2em;
   display: block;
   margin: 0 auto;
 }
